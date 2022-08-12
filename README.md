@@ -12,3 +12,5 @@ An Open document including tips on starting side projects (that eventually becom
 ## Scoping the Problem
 
 ## Building the Solution
+
+## Documenting/Building in Public

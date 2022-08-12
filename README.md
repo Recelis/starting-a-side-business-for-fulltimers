@@ -1,2 +1,12 @@
-# starting-a-side-project-for-fulltimers
-An Open document including tips on starting side projects while working full time as a developer.
+# Starting a Side Project for Full Timers
+An Open document including tips on starting side projects (that eventually become monetised!) while working full time as a developer.
+
+## Contributing
+
+## Coming up with an Idea
+
+## Market Validation
+
+## Scoping the Problem
+
+## Building the Solution

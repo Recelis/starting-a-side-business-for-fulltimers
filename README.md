@@ -1,4 +1,4 @@
-# Starting a Side Project for Full Timers
+# Starting a Side Business for Full Timers
 An Open document including tips on starting side projects (that eventually become monetised!) while working full time as a developer.
 
 ## Contributing

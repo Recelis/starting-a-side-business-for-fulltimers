@@ -3,6 +3,8 @@ An Open document including tips on starting side projects (that eventually becom
 
 ## Contributing
 
+## Carving out some time
+
 ## Coming up with an Idea
 
 ## Market Validation
